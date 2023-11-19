@@ -1,0 +1,1 @@
+It is only an example of trying Axios Interceptor Manager.
